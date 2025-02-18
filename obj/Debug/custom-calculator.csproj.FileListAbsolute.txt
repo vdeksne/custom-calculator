@@ -1,0 +1,10 @@
+C:\Mac\Home\Documents\SoftwareEngineering\Spring_2025\Ievads lietotņu programmēšanā\Task_3\custom-calculator\custom-calculator\bin\Debug\custom-calculator.exe.config
+C:\Mac\Home\Documents\SoftwareEngineering\Spring_2025\Ievads lietotņu programmēšanā\Task_3\custom-calculator\custom-calculator\bin\Debug\custom-calculator.exe
+C:\Mac\Home\Documents\SoftwareEngineering\Spring_2025\Ievads lietotņu programmēšanā\Task_3\custom-calculator\custom-calculator\bin\Debug\custom-calculator.pdb
+C:\Mac\Home\Documents\SoftwareEngineering\Spring_2025\Ievads lietotņu programmēšanā\Task_3\custom-calculator\custom-calculator\obj\Debug\custom-calculator.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\SoftwareEngineering\Spring_2025\Ievads lietotņu programmēšanā\Task_3\custom-calculator\custom-calculator\obj\Debug\custom_calculator.Form1.resources
+C:\Mac\Home\Documents\SoftwareEngineering\Spring_2025\Ievads lietotņu programmēšanā\Task_3\custom-calculator\custom-calculator\obj\Debug\custom_calculator.Properties.Resources.resources
+C:\Mac\Home\Documents\SoftwareEngineering\Spring_2025\Ievads lietotņu programmēšanā\Task_3\custom-calculator\custom-calculator\obj\Debug\custom-calculator.csproj.GenerateResource.cache
+C:\Mac\Home\Documents\SoftwareEngineering\Spring_2025\Ievads lietotņu programmēšanā\Task_3\custom-calculator\custom-calculator\obj\Debug\custom-calculator.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\SoftwareEngineering\Spring_2025\Ievads lietotņu programmēšanā\Task_3\custom-calculator\custom-calculator\obj\Debug\custom-calculator.exe
+C:\Mac\Home\Documents\SoftwareEngineering\Spring_2025\Ievads lietotņu programmēšanā\Task_3\custom-calculator\custom-calculator\obj\Debug\custom-calculator.pdb
